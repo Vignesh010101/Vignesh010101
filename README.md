@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many of the different types of project...
 - 📫 How to reach me ...
 
-[![LeetCode Stats](https://leetcode.com/Sci-fi-vy?theme=dark&font=baloo&extension=activity)](https://leetcode.com/JacobLinCool)
+[![LeetCode Stats](https://leetcode.com/Sci-fi-vy?theme=dark&font=baloo&extension=activity)](https://leetcode.com/Sci-fi-vy)
 
 <!---
 Vignesh010101/Vignesh010101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
