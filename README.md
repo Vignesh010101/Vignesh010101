@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on many of the different types of project...
 - 📫 How to reach me ...
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Vignesh010101&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh010101&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh010101&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 <h1 align="center" color="blue">Tech Stack</h1>
 
 <p align="center">
