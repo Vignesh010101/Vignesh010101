@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on many of the different types of project...
 - 📫 How to reach me ...
 
+## 🚀 LeetCode Stats:
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Sci-fi-vy?theme=auto&font=source_code_pro&extension=null)
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Vignesh010101&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
