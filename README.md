@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats:
 
-[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesh010101)](https://github.com/Vignesh010101/github-readme-stats)
+[![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesh010101&theme=onedark)](https://github.com/Vignesh010101/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=Vignesh010101&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh010101&theme=onedark&hide_border=true)<br/>
