@@ -2,7 +2,7 @@
 - 👀 Currenlty Pursuing Master's Majoring in Artificial Intelligence..
 - 🌱 Deeply interested in fields of AI, Machine Learning, Deep Learning and Large Language Model...
 - 💞️ I’m looking to collaborate on many of the different types of project...
-- 📫 How to reach me ...
+
 
 ## 🚀 LeetCode Stats:
 
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
+- 📫 How to reach me ...
 ## 🌐 Socials to Connect:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sci-fi-vy) 
