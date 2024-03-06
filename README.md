@@ -3,7 +3,7 @@
 - 🌱 Deeply interested in fields of AI, Machine Learning, Deep Learning and Large Language Model...
 - 💞️ I’m looking to collaborate on many of the different types of project....
 
-## 🚀 LeetCode Stats:
+## 🚀 LeetCode Stats: 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Sci-fi-vy?theme=auto&font=source_code_pro&extension=null)
 
