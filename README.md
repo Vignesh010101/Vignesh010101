@@ -5,7 +5,7 @@
 
 ## 🚀 LeetCode Stats: 
 
-![Leetcode Stats](https://leetcard/Sci-fi-vy)](https://leetcode.com/Sci-fi-vy)
+![LeetCode Stats](https://leetcode.card.workers.dev/Sci-fi-vy?theme=auto&font=source_code_pro&extension=null)
 
 ## 📊 GitHub Stats:
 
