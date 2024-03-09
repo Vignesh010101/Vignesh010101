@@ -5,7 +5,7 @@
 
 ## 🚀 LeetCode Stats: 
 
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?Sci-fi-vy=jetsai&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Sci-fi-vy&theme=Dark)](https://github.com/Sci-fi-vy/leetcode-stats)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Sci-fi-vy?theme=auto&font=source_code_pro&extension=null)
 
