@@ -5,7 +5,7 @@
 
 ## 🚀 LeetCode Stats: 
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Sci-fi-vy&theme=Dark)](https://github.com/Sci-fi-vy/leetcode-stats) 
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Sci-fi-vy&theme=Dark)](https://leetcode.com/Sci-fi-vy/leetcode-stats) 
 
 ## 📊 GitHub Stats:
 
