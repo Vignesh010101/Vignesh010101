@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats:
 
 [![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesh010101&theme=onedark)](https://github.com/Vignesh010101/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh010101&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh010101&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh010101&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <h1 align="center" color="blue">Tech Stack</h1>
