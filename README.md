@@ -15,6 +15,8 @@
 
 <h1 align="center" color="blue">Tech Stack</h1>
 
+<h3 color="blue">Languages</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
