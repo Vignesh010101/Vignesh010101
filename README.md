@@ -3,7 +3,7 @@
 - 🌱 Deeply interested in fields of AI, Machine Learning, Deep Learning and Large Language Model...
 - 💞️ I’m looking to collaborate on many of the different types of project related to A.I....
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">via GIPHY</a></p>
+(https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif)
 
 ## 🚀 LeetCode Stats: 
 
