@@ -147,7 +147,6 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sci-fi-vy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignesh._.xoxo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sci-fi-vy-vignesh)
-![Windows](https://img.shields.io/badge/windows?logo=windows&logoColor=white&style=for-the-badge)
 
 
 <!---
