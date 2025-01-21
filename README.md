@@ -142,7 +142,7 @@
 <br/>
 - 📫 How to reach me ...
 
-## 🌐 Socials to Connect: 
+## 🌐 Socials to Connect:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sci-fi-vy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignesh._.xoxo) 
