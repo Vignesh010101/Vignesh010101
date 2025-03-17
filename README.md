@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vignesh  
-- 👀 Currenlty Pursuing Master's Majoring in Artificial Intelligence..
+- 👀 Currenlty Pursuing Master's Majoring in Artificial Intelligence and Robotics..
 - 🌱 Deeply interested in fields of AI, Machine Learning, Deep Learning and Large Language Model...
 - 💞️ I’m looking to collaborate on many of the different types of project related to A.I....
 
