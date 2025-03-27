@@ -7,7 +7,7 @@
 
 ## 🚀 LeetCode Stats: 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Sci-fi-vy?ext=contest)](https://leetcode.com/Sci-fi-vy)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sci-fi-vy?ext=contest)](https://leetcode.com/Sci-fi-vy)]
 
 ## 📊 GitHub Stats:
 
