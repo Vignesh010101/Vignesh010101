@@ -147,6 +147,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignesh._.xoxo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sci-fi-vy-vignesh)
 
+<p align="center">
+  <a href="https://trendshift.io/repositories/12800">
+    <img src="assets/TRENDING-BADGE.png" alt="Trending Badge" style="width: 250px; height: 55px;" width="250" height="55"/>
+  </a>
+</p>
 
 <!---
 Vignesh010101/Vignesh010101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
