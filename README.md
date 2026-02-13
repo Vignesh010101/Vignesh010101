@@ -9,7 +9,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sci-fi-vy?ext=contest)](https://leetcode.com/Sci-fi-vy)
 
 ## 📊 GitHub Stats:
-<div align="right">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh010101&theme=dracula&hide_border=true">
 </div>
 
