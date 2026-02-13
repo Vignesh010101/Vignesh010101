@@ -8,6 +8,15 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sci-fi-vy?ext=contest)](https://leetcode.com/Sci-fi-vy)
 
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh010101&theme=dracula&hide_border=true">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amri-tah&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
+</div>
+
 <h1 align="center" color="blue">Tech Stack</h1>
 
 <h3 color="blue">Languages</h3>
